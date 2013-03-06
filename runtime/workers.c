@@ -23,6 +23,7 @@
 #include <stdio.h>
 #include <cilk.h>
 #include <cilk-internal.h>
+#include <config.h>
 #ifdef CILK_USE_PERFCTR
 #include <string.h>
 #include <libperfctr.h>

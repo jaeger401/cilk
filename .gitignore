@@ -15,3 +15,15 @@
 *.exe
 *.out
 *.app
+
+# Cilk objects
+*.la
+*.lo
+
+# Dependency & and other temp files
+.deps
+.libs
+
+# Vim swap files
+*.swp
+*.swo
